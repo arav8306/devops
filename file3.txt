@@ -2,3 +2,4 @@ wednesday
 thursday
 friday
 hello
+monday
